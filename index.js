@@ -1,1 +1,1 @@
-// adding a new commit to check git revert
+const sum = (a,b)=> a+b
